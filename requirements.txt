@@ -6,7 +6,5 @@
 # tokenizers==
 
 transformers==4.49.0
-shortuuid
-datasets
-SentencePiece
+datasets==4.0.0
 accelerate==0.34
