@@ -1,0 +1,2 @@
+deepspeed==0.16.4
+protobuf==6.32.0
