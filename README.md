@@ -17,9 +17,9 @@ python mmada/mmada_scqa4.py --pos_penalty_gamma 0.5 --vfg_scale 0.5 --vfg_start 
 ```
 
 ```
-python lavida/lavida_m3cot5.py --pos_penalty_gamma 0.5 --vfg_scale 0.5 --vfg_start 0.0 --vfg_end 1.0 --max_new_tokens 256
+python lavida/lavida_m3cot5.py --pos_penalty_gamma 0.5 --vfg_scale 0.5 --max_new_tokens 256
 
-python lavida/lavida_vstar4.py --pos_penalty_gamma 0.5 --vfg_scale 0.5 --vfg_start 0.0 --vfg_end 1.0 --max_new_tokens 256
+python lavida/lavida_vstar4.py --pos_penalty_gamma 0.5 --vfg_scale 0.5 --max_new_tokens 256
 
 python mmada/mmada_scqa4.py --pos_penalty_gamma 0.5 --vfg_scale 0.5 --vfg_start 0.0 --vfg_end 1.0 --max_new_tokens 128
 ```
